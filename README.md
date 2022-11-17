@@ -1,0 +1,2 @@
+# manavKasa
+Manav kasa uygulaması
